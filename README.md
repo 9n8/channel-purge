@@ -1,1 +1,2 @@
-# channel-purge
+- dm me on @pw#1337 for help
+- u jus need a damn token lol
