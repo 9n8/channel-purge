@@ -1,4 +1,4 @@
-- dm me on @pw#1337 for help
+- dm me on @II#1337 for help
 - u jus need a damn token lol
 - run the file
 - type "sex" in da channel u wanna purge
