@@ -1,5 +1,4 @@
-import discord, os, colorama
-import asyncio
+import discord, os, asyncio
 
 from discord.ext import commands
 from colorama import Fore, Style
