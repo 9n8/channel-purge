@@ -13,7 +13,7 @@ os.system('cls')
 
 print(f'                       type sex where u want to purge \n\n')
 
-print(f'                                   {Fore.YELLOW}@II1337 {Fore.LIGHTMAGENTA_EX} \n')
+print(f'                                   {Fore.YELLOW}@uo2 {Fore.LIGHTMAGENTA_EX} \n')
 
 class MyClient(discord.Client):
     async def on_message(self, message):
